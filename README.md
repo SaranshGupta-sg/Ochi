@@ -28,4 +28,5 @@ about
 playful
 cards
 cards
-ready
+ready to start 
+footer

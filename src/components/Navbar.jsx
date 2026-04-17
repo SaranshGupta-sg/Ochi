@@ -33,6 +33,13 @@ const Navbar = () => {
           ></path>
         </svg>
       </div>
+      <div>
+        {["Services", "Our Work", "About Us", "Insights"].map((item, index) => (
+          <a key={index} className="text-md font-semibold">
+            {item}
+          </a>
+        ))}
+      </div>
     </div>
   );
 };

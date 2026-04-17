@@ -7,9 +7,18 @@
   font-style: normal;
 }
 
-
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("./assets/fonts/NeueMontreal-Regular.ttf") format("truetype");
+  font-weight: 400; /* Regular = 400 */
+  font-style: normal;
+}
 
 .title {
   font-family: "FoundersGrotesk", sans-serif;
   font-weight: 600;
+}
+
+.text {
+  font-family: "NeueMontreal", sans-serif;
 }

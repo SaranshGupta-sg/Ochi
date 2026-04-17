@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "FoundersGrotesk";
+  src: url("./assets/fonts/FoundersGrotesk-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+
+.title {
+  font-family: "FoundersGrotesk", sans-serif;
+  font-weight: 600;
+}

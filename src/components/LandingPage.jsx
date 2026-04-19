@@ -15,7 +15,9 @@ const LandingPage = () => {
         })}
       </div>
 
-      <div className="border-t-[1px] border-zinc-700 mt-32"></div>
+      <div className="border-t-[1px] border-zinc-700 mt-32">
+        {["For public and private companies", "From the first pitch to IPO"]}
+      </div>
     </div>
   );
 };

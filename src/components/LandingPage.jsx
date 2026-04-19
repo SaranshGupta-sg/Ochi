@@ -15,12 +15,14 @@ const LandingPage = () => {
         })}
       </div>
 
-      <div className="border-t-[1px] border-zinc-700 mt-32">
+      <div className="border-t-[1px] border-zinc-800 mt-32 flex justify-between items-center py-5 px-20">
         {[
           "For public and private companies",
           "From the first pitch to IPO",
         ].map((item, index) => (
-          <p className="text-md font-light"></p>
+          <p className="text-md font-light tracking-tight leading-none">
+            {item}
+          </p>
         ))}
       </div>
     </div>

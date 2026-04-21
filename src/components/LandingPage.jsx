@@ -24,6 +24,7 @@ const LandingPage = () => {
             {item}
           </p>
         ))}
+        <div className="start"></div>
       </div>
     </div>
   );

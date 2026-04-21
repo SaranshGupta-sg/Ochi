@@ -24,7 +24,9 @@ const LandingPage = () => {
             {item}
           </p>
         ))}
-        <div className="start"></div>
+        <div className="start">
+          <div className="px-4">Start the project</div>
+        </div>
       </div>
     </div>
   );

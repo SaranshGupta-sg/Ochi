@@ -28,8 +28,8 @@ const LandingPage = () => {
           <div className="px-5 py-2 border-[2px] border-zinc-500 font-light text-sm capitalize rounded-full">
             Start the project
           </div>
-          <div>
-            
+          <div className="w-3 h-3 rounded-full">
+
           </div>
         </div>
       </div>

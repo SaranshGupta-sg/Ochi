@@ -30,7 +30,9 @@ const LandingPage = () => {
             Start the project
           </div>
           <div className="w-10 h-10 flex items-center justify-center border-[2px] border-zinc-500 rounded-full">
-            <FaArrowUpLong />
+            <span>
+              <FaArrowUpLong />
+            </span>
           </div>
         </div>
       </div>

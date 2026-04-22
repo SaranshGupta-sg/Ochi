@@ -8,9 +8,12 @@ const LandingPage = () => {
         {["We Create", "Eye Opening", "Presentations"].map((item, index) => {
           return (
             <div className="masker">
-              <h1 className="text-[7.5vw] leading-[6.5vw] tracking-tighter uppercase font-medium title2">
-                {item}
-              </h1>
+              <div className="w-fit flex items-center">
+                {index === 1 && <div className="w-[9vw]"></div>}
+                <h1 className="text-[7.5vw] leading-[6.5vw] tracking-tighter uppercase font-medium title2">
+                  {item}
+                </h1>
+              </div>
             </div>
           );
         })}

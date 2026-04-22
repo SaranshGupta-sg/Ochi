@@ -25,11 +25,11 @@ const LandingPage = () => {
             {item}
           </p>
         ))}
-        <div className="start">
+        <div className="start flex items-center gap-5">
           <div className="px-5 py-2 border-[2px] border-zinc-500 font-light text-sm capitalize rounded-full">
             Start the project
           </div>
-          <div className="w-3 h-3 rounded-full">
+          <div className="w-10 h-10 flex items-center justify-center border-[2px] border-zinc-500 rounded-full">
             <FaArrowUpLong />
           </div>
         </div>

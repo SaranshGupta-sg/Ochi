@@ -9,7 +9,7 @@ const Marquee = () => {
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-          className="text-[22vw] leading-none title uppercase "
+          className="text-[22vw] leading-none title uppercase pt-1 pb-9 -mb-[1vw]"
         >
           we are ochi
         </motion.h1>
@@ -17,7 +17,7 @@ const Marquee = () => {
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-          className="text-[22vw] leading-none title uppercase "
+          className="text-[22vw] leading-none title uppercase pt-1 pb-9 -mb-[1vw]"
         >
           we are ochi
         </motion.h1>
@@ -25,7 +25,7 @@ const Marquee = () => {
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-          className="text-[22vw] leading-none title uppercase "
+          className="text-[22vw] leading-none title uppercase pt-1 pb-9 -mb-[1vw]"
         >
           we are ochi
         </motion.h1>

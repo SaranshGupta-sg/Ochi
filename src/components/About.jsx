@@ -7,9 +7,9 @@ const About = () => {
         We craft category-defining presentations, brand identities, and digital
         experiences that drive funding, sales, and market leadership.
       </h1>
-      <div className="w-full border-t-[1px] mt-20 border-[#a1b562]">
+      <div className="w-full border-t-[1px] pt-10 mt-20 border-[#a1b562]">
         <div className="w-1/2">
-          <h1>Our Approach</h1>
+          <h1 className="text-7xl">Our Approach</h1>
         </div>
       </div>
     </div>

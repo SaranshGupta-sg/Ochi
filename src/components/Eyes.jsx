@@ -3,8 +3,9 @@ import React from 'react'
 const Eyes = () => {
   return (
     <div>
-      Eyes
-Eyes
+      <div>
+        <h1>Hi</h1>
+      </div>
     </div>
   )
 }

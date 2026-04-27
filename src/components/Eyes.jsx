@@ -10,6 +10,9 @@ const Eyes = () => {
         <h1>Hello</h1>
         <h2>Konnichiwa</h2>
       </div>
+      <div>
+        <h1>JJJJ</h1>
+      </div>
     </div>
   )
 }

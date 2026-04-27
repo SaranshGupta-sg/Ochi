@@ -44,3 +44,4 @@ hello
 konnichiwa
 jane
 mina san
+irrashaimase

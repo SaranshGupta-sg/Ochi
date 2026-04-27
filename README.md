@@ -43,3 +43,4 @@ hi
 hello
 konnichiwa
 jane
+mina san

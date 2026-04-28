@@ -32,16 +32,3 @@ ready to start
 footer
 
 
-
-
-
-
-
-
-
-hi
-hello
-konnichiwa
-jane
-mina san
-irrashaimase

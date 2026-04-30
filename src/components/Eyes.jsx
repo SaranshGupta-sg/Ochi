@@ -13,6 +13,10 @@ const Eyes = () => {
           Konnichiwa
         </h1>
         <h1 className="bg-green-300">konbanwa</h1>
+        <div>
+          <h1 className="bg-pink-300">ohayo</h1>
+        </div>
+        
       </div>
     </div>
   );

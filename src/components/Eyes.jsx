@@ -16,7 +16,11 @@ const Eyes = () => {
         <div>
           <h1 className="bg-pink-300">ohayo</h1>
         </div>
-        
+        <div>
+          <h1 className="bg-orange-400">
+            GSAPP
+          </h1>
+        </div>
       </div>
     </div>
   );

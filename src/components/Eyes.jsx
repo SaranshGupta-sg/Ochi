@@ -6,6 +6,8 @@ const Eyes = () => {
       <div className='w-full h-full bg-red-500'>
         <h1>Helllooo</h1>
         <h1 className='bg-amber-400'>i mmm</h1>
+        <h1 className='bg-amber-900
+         text-4xl'>Konnichiwa</h1>
       </div>
     </div>
   )

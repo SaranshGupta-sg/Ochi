@@ -23,6 +23,7 @@ const Eyes = () => {
         </div>
         <div>
           <h1>Git</h1>
+          <h1 className="bg-pink-100">Github</h1>
         </div>
       </div>
     </div>

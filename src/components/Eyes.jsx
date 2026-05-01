@@ -21,6 +21,9 @@ const Eyes = () => {
           <h2 className="bg-amber-300">samping</h2>
           <h3>Going</h3>
         </div>
+        <div>
+          <h1>Git</h1>
+        </div>
       </div>
     </div>
   );

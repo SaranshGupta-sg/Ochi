@@ -17,9 +17,9 @@ const Eyes = () => {
           <h1 className="bg-pink-300">ohayo</h1>
         </div>
         <div>
-          <h1 className="bg-orange-400">
-            GSAPP
-          </h1>
+          <h1 className="bg-orange-400">GSAPP</h1>
+          <h2 className="bg-amber-300">samping</h2>
+          <h3>Going</h3>
         </div>
       </div>
     </div>

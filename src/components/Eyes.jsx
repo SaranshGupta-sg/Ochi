@@ -4,14 +4,6 @@ const Eyes = () => {
   return (
     <div className="eyes h-screen overflow-hidden">
       <div className="w-full h-full bg-red-500">
-        <h1>Helllooo</h1>
-        <h1 className="bg-amber-400">i mmm</h1>
-        <h1
-          className="bg-amber-900
-         text-4xl"
-        >
-          Konnichiwa
-        </h1>
         <h1 className="bg-green-300">konbanwa</h1>
         <div>
           <h1 className="bg-pink-300">ohayo</h1>
@@ -24,6 +16,10 @@ const Eyes = () => {
         <div>
           <h1>Git</h1>
           <h1 className="bg-pink-100">Github</h1>
+        </div>
+        <div className="text-5xl bg-amber-50">
+          <h1 className="h-2">HEy man</h1>
+          <h3>keyword</h3>
         </div>
         <div className="text-5xl bg-amber-50">
           <h1 className="h-2">HEy man</h1>

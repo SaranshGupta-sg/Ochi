@@ -14,6 +14,11 @@ const Eyes = () => {
           <h3>Going</h3>
         </div>
         <div>
+          <h1 className="bg-orange-400">GSAPP</h1>
+          <h2 className="bg-amber-300">samping</h2>
+          <h3>Going</h3>
+        </div>
+        <div>
           <h1>Git</h1>
           <h1 className="bg-pink-100">Github</h1>
         </div>

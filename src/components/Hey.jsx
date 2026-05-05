@@ -34,6 +34,10 @@ const Hey = () => {
           <h1 className="h-2">HEy man</h1>
           <h3>keyword</h3>
         </div>
+        <div className="text-5xl bg-amber-50">
+          <h1 className="h-2">HEy man</h1>
+          <h3>keyword</h3>
+        </div>
       </div>
     </div>
   );

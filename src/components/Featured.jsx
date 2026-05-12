@@ -1,6 +1,8 @@
+import { motion } from "framer-motion";
 import React from "react";
 
 const Featured = () => {
+  
   return (
     <div className="w-full py-20">
       <div className="w-full px-20 border-b-[1px] border-zinc-700 pb-15">
@@ -11,9 +13,11 @@ const Featured = () => {
         <div className="cards w-full flex gap-10 mt-10">
           <div className="cardcontainer relative w-1/2 h-[75vh]">
             <h1 className="absolute left-full -translate-x-1/2 top-1/2 -translate-y-1/2 text-[#CDEA68] z-[9] leading-none text-8xl">
+              
               {"FYDE".split("").map((item, index) => (
-                <span>{item}</span>
+                <motion.span initial={{y:"100%"}} className="inline-block">{item}</motion.span>
               ))}
+          
             </h1>
             <div className="card w-full rounded-xl h-full overflow-hidden">
               <img
